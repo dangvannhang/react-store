@@ -1,22 +1,14 @@
-## Notes
+# Responsive:
 
-#### Older React Version
+All the current code for UI will apply for the current screen.
 
-```
-"react": "^16.13.1",
-"react-dom": "^16.13.1",
-"react-scripts": "3.4.3",
-```
+`@media (min-width: 992px)`{}: when your width screen less than 992px, this style will apply for your code
 
-#### Current React Version
+# Testing with Jest
 
-```
-"react": "^17.0.1",
-"react-dom": "^17.0.1",
-"react-scripts": "4.0.0",
-```
+- [Setup testing](https://jestjs.io/docs/tutorial-react)
 
-#### Alternative fix
+# Questions, Errors, Problems
 
-.env file in the root
-FAST_REFRESH=FALSE
+1. Can't install `react-test-renderer`
+2. [Can't run unit test by setUp - can't find module react-dom/client](https://stackoverflow.com/questions/71713405/cannot-find-module-react-dom-client-from-node-modules-testing-library-react)

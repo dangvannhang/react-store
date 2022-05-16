@@ -6,7 +6,7 @@ All the current code for UI will apply for the current screen.
 
 # Testing with Jest
 
-- [Setup testing](https://jestjs.io/docs/tutorial-react)
+- [Setup - test](https://www.youtube.com/watch?v=3e1GHCA3GP0&t=328s&ab_channel=techsith)
 
 # Questions, Errors, Problems
 
